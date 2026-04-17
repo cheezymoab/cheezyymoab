@@ -1,0 +1,20 @@
+a{
+    color: inherit;
+}
+
+#games{
+    color: orangered;
+    font-family: 'Montserrat';
+    font-size: larger;
+}
+
+html{
+    background-color: black;
+}
+
+header{
+    font-size: x-large;
+    color: white;
+    font-family: 'Montserrat'
+;
+}
