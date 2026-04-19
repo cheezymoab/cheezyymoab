@@ -1,0 +1,11 @@
+html{
+    background-color: black;
+}
+
+#repo{
+    color: yellow;
+}
+
+a{
+    color: inherit;
+}

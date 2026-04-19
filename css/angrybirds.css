@@ -1,0 +1,11 @@
+html{
+    background-color: black;
+}
+
+#angrybird{
+    color: red;
+}
+
+a{
+    color: inherit;
+}
