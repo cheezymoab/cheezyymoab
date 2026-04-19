@@ -1,0 +1,11 @@
+html{
+    background-color: black;
+}
+
+#cheese{
+    color: rgb(199, 199, 97);
+}
+
+a{
+    color: inherit;
+}
