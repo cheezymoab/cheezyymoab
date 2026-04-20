@@ -1,0 +1,11 @@
+html{
+    background-color: black;
+}
+
+#mario{
+    color: red;
+}
+
+a{
+    color: inherit;
+}
